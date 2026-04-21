@@ -1,1 +1,1 @@
-# Data_analytics_SU
+# Financial Analysis of S&P 500 Assets
